@@ -28,7 +28,7 @@ const About = () => {
                 {" "}
                 An aspiring software developer in the process of honing web
                 development skills. I'm currently studying at UC Davis. In 
-                my free time I like to learn how to bake and go hiking.
+                my free time, I like to learn easy baking recipes and go hiking.
               </p>
             </div>
           </div>
