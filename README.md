@@ -1,5 +1,5 @@
 # How to view this React App:
-- Try installing node.js and npm.
+- Try installing [node.js and npm](https://nodejs.org/en/download).
 - Then, install live-server: Open your terminal or command prompt and run 'npm install -g live-server'.
 - Alternatively, you can install it as a dev dependency within your project by navigating to your project directory and running 'npm install --save-dev live-server'.
 - To navigate to your project directory:
