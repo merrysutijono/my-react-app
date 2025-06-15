@@ -1,3 +1,5 @@
+Before proceeding with the instructions below, please fork this repository or download the files in this repository into your desktop computer or laptop :-)
+
 # How to view this React App:
 - Install [node.js and npm](https://nodejs.org/en/download).
 - Then, install live-server. Open your terminal or command prompt and run 'npm install -g live-server'.
