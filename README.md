@@ -1,4 +1,4 @@
-Before proceeding with the instructions below, please fork this repository or download the files in this repository so that it is accessible on your desktop computer or laptop :-)
+Before you proceed with the instructions below, please fork this repository or download the files in this repository so that it is accessible on your desktop computer or laptop :-)
 
 # How to view this React App:
 - Install [node.js and npm](https://nodejs.org/en/download).
