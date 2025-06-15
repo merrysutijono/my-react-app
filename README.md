@@ -14,4 +14,4 @@ json
   "start": "live-server"
 }
   -> Then, run the server with: 'npm start'.
-- You can access your website which will typically open automatically in your browser at localhost:3000 (or another port). 
+- You can access your website which will open automatically in your browser at localhost:3000 (or another port). 
