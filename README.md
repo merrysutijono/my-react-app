@@ -6,8 +6,8 @@
    -> Use the cd command in your terminal to go to the folder where your website files are located.
    -> For example, if your folder is named 'my-app' type 'cd my-app' in your terminal.
 - Start the live server, type the following command in your terminal:
-  -> If you installed it globally: 'live-server'.
-  -> If you installed it as a dev dependency within your project: 'npx live-server'.
+  -> If you installed it globally, type 'live-server'.
+  -> If you installed it as a dev dependency within your project, type 'npx live-server'.
   -> You can also configure an npm script in your package.json file (if you have one) to run live-server. For example:
 json
 "scripts": {
