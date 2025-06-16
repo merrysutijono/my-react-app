@@ -11,9 +11,11 @@ Before you proceed with the instructions below, please fork this repository or d
   -> If you installed it globally, type 'live-server'.
   -> If you installed it as a dev dependency within your project, type 'npx live-server'.
   -> You can also configure an npm script in your package.json file (if you have one) to run live-server. For example:
+```
 json
 "scripts": {
   "start": "live-server"
 }
+```
   -> Then, run the server with: 'npm start'.
 - You can access your website which will open automatically in your browser at localhost:3000 (or another port). 
