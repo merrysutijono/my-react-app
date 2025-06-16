@@ -20,14 +20,14 @@ Before you proceed with the instructions below, please fork this repository or d
   ```
   npx live-server
   ```
-  You can also configure an npm script in your package.json file (if you have one) to run live-server. For example:
-```
-json
-"scripts": {
-  "start": "live-server"
-}
-```
-  Then, run the server with: 
+- You can also configure an npm script in your package.json file (if you have one) to run live-server. For example:
+  ```
+  json
+  "scripts": {
+    "start": "live-server"
+  }
+  ```
+- Then, run the server with: 
   ```
   npm start
   ```
