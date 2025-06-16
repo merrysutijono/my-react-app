@@ -10,26 +10,24 @@ Before you proceed with the instructions below, please fork this repository or d
   ```
   npm install --save-dev live-server
   ```
-- To navigate to your project directory:
-  -> Use the cd command in your terminal to go to the folder where your website files are located.
-  -> For example, in this case the folder is 'my-react-app' type 'cd my-react-app' in your terminal.
-- To start the live server, type the following command in your terminal:
-  -> If you installed it globally, type
+- To navigate to your project directory, use the cd command in your terminal to go to the folder where your website files are located. For example, in this case the folder is 'my-react-app' type 'cd my-react-app' in your terminal.
+- To start the live server, type the following command in your terminal.
+  If you installed it globally, type
   ```
   live-server
   ```
-  -> If you installed it as a dev dependency within your project, type
+  If you installed it as a dev dependency within your project, type
   ```
   npx live-server
   ```
-  -> You can also configure an npm script in your package.json file (if you have one) to run live-server. For example:
+  You can also configure an npm script in your package.json file (if you have one) to run live-server. For example:
 ```
 json
 "scripts": {
   "start": "live-server"
 }
 ```
-  -> Then, run the server with: 
+  Then, run the server with: 
   ```
   npm start
   ```
