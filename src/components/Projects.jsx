@@ -23,7 +23,7 @@ const Projects = () => {
               <span className=' text-lg font-bold text-white tracking-wider'>
                 CBT Application
               </span>
-              <p className='text-center'>Time Series Analysis of Central African Republic Exports</p>
+              <p className='text-center'>Transformation of Hospital Stay Data</p>
               <div className='pt-8 text-center'>
                 <a href='/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
